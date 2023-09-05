@@ -48,7 +48,6 @@
 
 
 | [<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/alireza-sha-bani-40a973171/) | [<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/Revisto/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Revisto) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13622976/revisto) | [<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:theRevisto@gmail.com)
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
 
