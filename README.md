@@ -3,8 +3,8 @@
 
 <img align="right" alt="PC GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/PC.gif" width="190" />
 
-### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Earth.gif" width="24px">
-### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Rocket.gif" width="29px"><a href="https://github.com/Revisto/Revisto/blob/master/Assets/RevSume.pdf"> **My Resume!**</a> &nbsp;
+<h3 style="margin-bottom: 0px;"> <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Earth.gif" width="24px"> </h3>
+<h3 style="margin-top: 13px;"> <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Rocket.gif" width="29px"><a href="https://github.com/Revisto/Revisto/blob/master/Assets/RevSume.pdf"> **My Resume!**</a> &nbsp; </h3> 
 
 
 <p>
