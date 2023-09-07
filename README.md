@@ -4,21 +4,13 @@
 <img align="right" alt="PC GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/PC.gif" width="190" />
 
 ### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Earth.gif" width="24px">
-#### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Rocket.gif" width="29px"><a href="https://github.com/Revisto/Revisto/blob/master/Assets/RevSume.pdf"> **My Resume!**</a> &nbsp; 
-<style>
-h3 {
-  margin-bottom: 13px;
-}
-h4 {
-  margin-top: 13px;
-}
-</style>
+#### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Rocket.gif" width="29px"><a href="https://github.com/Revisto/Revisto/raw/master/Assets/RevSume.pdf"> **My Resume!**</a> &nbsp; 
 
 <p>
   <em>
     I am 18 years old, </a>A budding <b>Software Developer</b> <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>grow</b> and 
     <b>excel.</b> <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
