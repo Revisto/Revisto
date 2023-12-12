@@ -79,6 +79,10 @@
       <img src="https://cdn.svgporn.com/logos/cloudflare.svg" alt="java" width="65" height="65"/> 
       <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="java" width="65" height="65"/> 
       <img src="https://cdn.svgporn.com/logos/openai-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.svgporn.com/logos/adobe-illustrator.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" alt="java" width="65" height="65"/> 
+      <img src="https://cdn.svgporn.com/logos/adobe-indesign.svg" alt="java" width="65" height="65"/> 
 </p>
 
 
