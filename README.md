@@ -4,7 +4,7 @@
 <img align="right" alt="PC GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/PC.gif" width="190" />
 
 ### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Earth.gif" width="24px">
-#### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Rocket.gif" width="29px"><a href="https://github.com/Revisto/Revisto/raw/master/Assets/RevSume.pdf"> **My Resume!**</a> &nbsp; 
+#### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Rocket.gif" width="29px"><a href="https://github.com/Revisto/Revisto/raw/master/Assets/Alireza Revisto Shabani CV.pdf"> **My Resume!**</a> &nbsp; 
 
 <p>
   <em>
