@@ -32,7 +32,7 @@ I enjoy working with a variety of languages, frameworks, and tools. Here’s a s
 - **Mastodon:** [@revisto@mastodon.social](https://mastodon.social/@revisto)
 - **LinkedIn:** [linkedin.com/in/Revisto](https://linkedin.com/in/Revisto)
 - **Telegram:** [@Revisto](https://t.me/Revisto)
-- **Youtube:** [youtube.com/@Revisto](https://www.youtube.com/@Revisto)
+- **Youtube:** [youtube.com/@theRevisto](https://www.youtube.com/@theRevisto)
 - **Reddit:** [reddit.com/user/theRevisto](https://www.reddit.com/user/theRevisto)
 - **Latest Article & Blog:** [blogs.gnome.org/Alirezash](https://blogs.gnome.org/Alirezash)
 - **dev.to:** [dev.to/revisto](https://dev.to/revisto)
