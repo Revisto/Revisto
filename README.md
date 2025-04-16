@@ -1,89 +1,49 @@
-# Revisto&nbsp;<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hey, I'm Alireza Shabani — aka Revisto 👋
+
+I'm a 20-year-old programmer and open-source enthusiast who loves FOSS and music creation. Currently working on open source projects, making music, and coordinating Farsi translations for the Python ecosystem.
+
+![Revisto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revisto&show_icons=true&theme=radical)
+
+## 🔧 What I'm Up To
+
+- 🏛️ **GNOME Foundation Member** – Advocating for better open tools in global communities.
+
+- 🥁 **[DrumMachine](https://github.com/revisto/drum-machine)** – A GNOME Circle music production tool I created.  
+  _"Create and play drum beats"_
+
+- 🐍 **Python Farsi Localization** – Proud coordinator of the Farsi translations for Python 🐍  
+  → [Help us on Transifex](https://explore.transifex.com/python-doc/python-newest/)
+  → [Repo](https://github.com/revisto/python-docs-fa)
+
+- 📥 **[Cypht](https://github.com/cypht-org/cypht)** – Contributor to this modular webmail client.  
+  _Lightweight Open Source webmail aggregator_
+
+## 🔧 My Tech Toolbox
+
+I enjoy working with a variety of languages, frameworks, and tools. Here’s a snapshot of my stack:
+- **Languages**: Python, PHP, C, JavaScript, HTML/CSS, Bash
+- **Frameworks & Libraries**: Django, Flask, Django REST Framework, libadwaita, GTK4, Pygame, Godot (GDScript)
+- **Design & Multimedia:** Adobe Illustrator, Photoshop, InDesign, MOHO and FL Studio
+- **Other Interests:** Open source, community engagement, and all things FOSS!
 
 
-<img align="right" alt="PC GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/PC.gif" width="190" />
+## 📫 How to Connect
 
-### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Earth.gif" width="24px">
-#### <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Rocket.gif" width="29px"><a href="https://github.com/Revisto/Revisto/raw/master/Assets/Alireza Revisto Shabani CV.pdf"> **My Resume!**</a> &nbsp; 
+- **Mastodon:** [@revisto@mastodon.social](https://mastodon.social/@revisto)
+- **LinkedIn:** [linkedin.com/in/Revisto](https://linkedin.com/in/Revisto)
+- **Telegram:** [@Revisto](https://t.me/Revisto)
+- **Youtube:** [youtube.com/@Revisto](https://www.youtube.com/@Revisto)
+- **Reddit:** [reddit.com/user/theRevisto](https://www.reddit.com/user/theRevisto)
+- **Latest Article & Blog:** [blogs.gnome.org/Alirezash](https://blogs.gnome.org/Alirezash)
+- **dev.to:** [dev.to/revisto](https://dev.to/revisto)
+- **Email:** [theRevisto@gmail.com](mailto:theRevisto@gmail.com)
 
-<p>
-  <em>
-    I am 19 years old, </a>A budding <b>Software Developer</b> <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> and 
-    <b>excel.</b> <img src="https://github.com/Revisto/Revisto/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
-</p>
+## 🎤 Recent Talks
 
-<br>
-
-- <img alt="GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* design patterns and more Django💪.
-- <img alt="GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/Revisto/Revisto/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
+- **TehLUG (Tehran Linux User Group) Talk:** [Bringing Your App to GNOME Circle (in Farsi)](https://www.youtube.com/watch?v=EfaRrPl_V4I)
 
 
-<br>
-
-<a href="https://github.com/Revisto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revisto&theme=dark&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Revisto">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Revisto&show_icons=true&theme=dark&line_height=27" alt="Shubhamdeep's github stats"/>
-</a>
-
-
-<br>
-<!--
-![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=Revisto&show_icons=true&hide_border=true)
--->
-
-<br>
-
-<br>
-
-# Connect with me<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Handshake.gif" height="32px">
-
-
-
-| [<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/alireza-sha-bani-40a973171/) | [<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/Revisto/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/Revisto) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13622976/revisto) | [<img src="https://github.com/Revisto/Revisto/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:theRevisto@gmail.com)
-
-
-
-<br>
-<br>
-
-
-
-
-
-
-
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
-
-<p align="center">
-      <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/python.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/flask.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/django-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/mongodb-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/linux-tux.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/ubuntu.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/cloudflare.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/openai-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/rabbitmq-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/adobe-illustrator.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" alt="java" width="65" height="65"/> 
-      <img src="https://cdn.svgporn.com/logos/adobe-indesign.svg" alt="java" width="65" height="65"/> 
-</p>
+Thanks for stopping by! I’m always open to new opportunities and collaborations. Let’s build something awesome together!
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Revisto)
