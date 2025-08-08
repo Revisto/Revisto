@@ -11,6 +11,8 @@ I'm a 20-year-old programmer and open-source enthusiast who loves FOSS and music
 - 🥁 **[DrumMachine](https://github.com/revisto/drum-machine)** – A GNOME Circle music production tool I created.  
   _"Create and play drum beats"_
 
+- 🔢 **[Sudoku](https://github.com/sepehr-rs/Sudoku)** – Currently maintaining this classic puzzle game, which is on its way to joining GNOME Circle!
+
 - 🐍 **Python Farsi Localization** – Proud coordinator of the Farsi translations for Python 🐍  
   → [Help us on Transifex](https://explore.transifex.com/python-doc/python-newest/)
   → [Repo](https://github.com/revisto/python-docs-fa)
