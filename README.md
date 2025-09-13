@@ -46,7 +46,9 @@ I enjoy working with a variety of languages, frameworks, and tools. Here’s a s
 
 ## 🎤 Recent Talks
 
-- **TehLUG (Tehran Linux User Group) Talk:** [Bringing Your App to GNOME Circle (in Farsi)](https://www.youtube.com/watch?v=EfaRrPl_V4I)
+- **LAS 2025 (Linux App Summit) Talk:** [Bringing Your App to GNOME Circle](https://youtu.be/EmMwb11-RoU) (in English)
+
+- **TehLUG (Tehran Linux User Group) Talk:** [Bringing Your App to GNOME Circle](https://www.youtube.com/watch?v=EfaRrPl_V4I) (in Farsi)
 
 
 Thanks for stopping by! I’m always open to new opportunities and collaborations. Let’s build something awesome together!
