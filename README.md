@@ -1,6 +1,6 @@
 # Hey, I'm Alireza Shabani — aka Revisto 👋
 
-I'm a 20-year-old programmer and open-source enthusiast who loves FOSS and music creation. Currently working on open source projects, making music, and coordinating Farsi translations for the Python ecosystem.
+I'm a 20-year-old programmer and open-source enthusiast who loves FOSS and music creation. Currently working as a software engineer at Divar company, contributing to free software and making music.
 
 ![Revisto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=revisto&show_icons=true&theme=radical)
 
@@ -8,10 +8,16 @@ I'm a 20-year-old programmer and open-source enthusiast who loves FOSS and music
 
 - 🏛️ **GNOME Foundation Member** – Advocating for better open tools in global communities.
 
-- 🥁 **[DrumMachine](https://github.com/revisto/drum-machine)** – A GNOME Circle music production tool I created.  
+- 🥁 **[Drum Machine](https://github.com/revisto/drum-machine)** – A GNOME Circle music production tool I created.  
   _"Create and play drum beats"_
+  - [Flathub](https://flathub.org/apps/io.github.revisto.drum-machine)
+
+- 🏢 **Developer at [Divar](https://en.wikipedia.org/wiki/Divar_(website))** – Working as a software engineer at Divar company.
 
 - 🔢 **[Sudoku](https://github.com/sepehr-rs/Sudoku)** – Currently maintaining this classic puzzle game, which is on its way to joining GNOME Circle!
+- 🌍 **GNOME Persian Community** – Part of the [GNOME Persian](https://github.com/gnome-fa) community, contributing to its projects and community building.
+  - [fa.gnome.org](https://fa.gnome.org)
+  - [t.me/gnome_fa](https://t.me/gnome_fa)
 
 - 🐍 **Python Farsi Localization** – Proud coordinator of the Farsi translations for Python 🐍  
   → [Help us on Transifex](https://explore.transifex.com/python-doc/python-newest/)
