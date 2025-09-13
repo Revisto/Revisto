@@ -27,7 +27,7 @@ I'm a 20-year-old programmer and open-source enthusiast who loves FOSS and music
 ## 🔧 My Tech Toolbox
 
 I enjoy working with a variety of languages, frameworks, and tools. Here’s a snapshot of my stack:
-- **Languages**: Python, PHP, C, JavaScript, HTML/CSS, Bash
+- **Languages**: Python, PHP, C, JavaScript, HTML/CSS, Bash, Go
 - **Frameworks & Libraries**: Django, Flask, Django REST Framework, libadwaita, GTK4, Pygame, Godot (GDScript)
 - **Design & Multimedia:** Adobe Illustrator, Photoshop, InDesign, MOHO and FL Studio
 - **Other Interests:** Open source, community engagement, and all things FOSS!
