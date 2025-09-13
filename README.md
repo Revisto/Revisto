@@ -15,9 +15,8 @@ I'm a 20-year-old programmer and open-source enthusiast who loves FOSS and music
 - 🏢 **Developer at [Divar](https://en.wikipedia.org/wiki/Divar_(website))** – Working as a software engineer at Divar company.
 
 - 🔢 **[Sudoku](https://github.com/sepehr-rs/Sudoku)** – Currently maintaining this classic puzzle game, which is on its way to joining GNOME Circle!
-- 🌍 **GNOME Persian Community** – Part of the [GNOME Persian](https://github.com/gnome-fa) community, contributing to its projects and community building.  
+- 🌍 **GNOME Persian Community** – Part of the [GNOME Persian community](https://github.com/gnome-fa), contributing to its projects and community building.  
   → [fa.gnome.org](https://fa.gnome.org)  
-  → [t.me/gnome_fa](https://t.me/gnome_fa)
 
 - 🐍 **Python Farsi Localization** – Proud coordinator of the Farsi translations for Python  
   → [Repo](https://github.com/revisto/python-docs-fa)
